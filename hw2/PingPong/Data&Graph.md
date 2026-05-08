@@ -29,4 +29,4 @@
 
 # Graph 
 
-![Graph](ssurface3/hpc2025/hw2/PingPong/output.png)
+![Graph](hw2/PingPong/output.png)

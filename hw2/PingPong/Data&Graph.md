@@ -29,4 +29,4 @@
 
 # Graph 
 
-![Graph](hw2/PingPong/output.png)
+![Graph](output.png)
